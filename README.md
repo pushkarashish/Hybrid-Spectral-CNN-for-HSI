@@ -20,18 +20,18 @@ Fig: Proposed HybridSpectralNet (HybridSN) Model with 3D and 2D convolutions for
 
 ### Indian Pines (IP) dataset
 
-<img src="figure/IP-FC.jpg" width="200" height="200"/> <img src="figure/IP-GT.jpg" width="200" height="200"/> <img src="figure/IP-Pr.jpg" width="200" height="200"/> <img src="figure/IP_legend.jpg" width="250" height="150"/>
+<img src="figures/IP-FC.jpg" width="200" height="200"/> <img src="figures/IP-GT.jpg" width="200" height="200"/> <img src="figures/IP-Pr.jpg" width="200" height="200"/> <img src="figures/IP_legend.jpg" width="250" height="150"/>
 
 Fig.2  The IN dataset classification result (Overall Accuracy 99.81%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend. 
 
 ### University of Pavia (UP) dataset
 
-<img src="figure/UP-FC.jpg"/> <img src="figure/UP-GT.jpg"/> <img src="figure/UP-Pr.jpg"/> <img src="figure/UP_legend.jpg" width="200" height="100"/>
+<img src="figures/UP-FC.jpg"/> <img src="figures/UP-GT.jpg"/> <img src="figures/UP-Pr.jpg"/> <img src="figures/UP_legend.jpg" width="200" height="100"/>
 
 Fig.3  The UP dataset classification result (Overall Accuracy 99.99%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map. (d) Class legend.
 
 ### Salinas Scene (SS) dataset
 
-<img src="figure/SA-FC.jpg"/> <img src="figure/SA-GT.jpg"/> <img src="figure/SA-Pr.jpg"/> <img src="figure/SA_legend.jpg" width="300" height="150"/>
+<img src="figures/SA-FC.jpg"/> <img src="figures/SA-GT.jpg"/> <img src="figures/SA-Pr.jpg"/> <img src="figures/SA_legend.jpg" width="300" height="150"/>
 
 Fig.4  The UP dataset classification result (Overall Accuracy 100%) of Hybrid-SN using 30% samples for training. (a) False color image. (b) Ground truth labels. (c) Classification map.
